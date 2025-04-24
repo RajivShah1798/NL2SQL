@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+sqlparse
+transformers
+requests
+huggingface_hub
+sentence_transformers
+tqdm
